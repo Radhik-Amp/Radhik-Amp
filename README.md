@@ -8,6 +8,6 @@ I'm an undergraduate student of Northeastern University studying Computer Scienc
 ## Tech
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,postgres,linux,bash,qt,lua,ts,azure,git,neovim,vscode)](https://skillicons.dev)
 
-<img src="fastfetch.svg" />
+<img src="fastfetch.svg"/>
 
 </div>

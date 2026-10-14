@@ -12,7 +12,7 @@ I'm an undergraduate student of Northeastern University studying Computer Scienc
 <details>
 <summary>...</summary>
 
-This theme is based off my fastfetch configuration! Check out my **dotfiles** to use it.
+This theme is based on my personal fastfetch configuration! Check out my **dotfiles** to use it.
 
 </details>
 </div>

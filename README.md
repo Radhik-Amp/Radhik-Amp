@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Radhik-Amp/Radhik-Amp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌀 Radhik
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>A student of decisions. Builder. Linux enjoyer.</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,postgres,linux,bash,qt,lua,ts,azure,git,neovim,vscode)](https://skillicons.dev)
+
+<img src="fastfetch.svg"/>
+<details>
+<summary>...</summary>
+
+This theme is based on my personal fastfetch configuration! Check out my [**dotfiles**](https://github.com/Radhik-Amp/dotfiles) to use it.
+
+</details>
+</div>
